@@ -18,6 +18,8 @@ Identify top-performing ads, audiences, and time periods for optimization.
 
 Enable marketing teams to make data-backed budgeting and strategy decisions.
 
+---
+
 Tools Used:
 
 MS EXCEL: collecting data and importing it into Power BI.
