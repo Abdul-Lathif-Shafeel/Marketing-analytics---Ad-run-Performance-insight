@@ -8,9 +8,9 @@ It enables data-driven decision-making by visualizing key ad performance KPIs, i
 ---
 🎯 Objectives
 
-Consolidate ad campaign data (Facebook Ads, Google Ads, LinkedIn, etc.) into a unified Power BI dashboard.
+Consolidate ad campaign data into a unified Power BI dashboard.
 
-Analyze campaign effectiveness using KPIs such as CTR, CPC, CPA, CPM, ROAS, and conversion rates.
+Analyze campaign effectiveness using KPIs such as CTR, CPC, CPA, CPM and conversion rates.
 
 Track lead generation and revenue outcomes from ad spends.
 
